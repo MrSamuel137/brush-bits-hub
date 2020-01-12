@@ -1,6 +1,6 @@
 using System;
 
-namespace bb_ntw
+namespace core_docker
 {
     public class WeatherForecast
     {

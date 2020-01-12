@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bb-ntw", "bb-ntw.csproj", "{120AF02A-5BC0-4FD5-9CA6-F66388FA5B2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core-docker", "core-docker.csproj", "{B0962ADE-016F-44F5-8815-39A874666FC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{120AF02A-5BC0-4FD5-9CA6-F66388FA5B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{120AF02A-5BC0-4FD5-9CA6-F66388FA5B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{120AF02A-5BC0-4FD5-9CA6-F66388FA5B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{120AF02A-5BC0-4FD5-9CA6-F66388FA5B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0962ADE-016F-44F5-8815-39A874666FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0962ADE-016F-44F5-8815-39A874666FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0962ADE-016F-44F5-8815-39A874666FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0962ADE-016F-44F5-8815-39A874666FC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3F3FC68D-936A-4BE6-BC49-6EB975259088}
+		SolutionGuid = {7B1170A6-DC30-4717-BC5C-06E4B5352B4A}
 	EndGlobalSection
 EndGlobal

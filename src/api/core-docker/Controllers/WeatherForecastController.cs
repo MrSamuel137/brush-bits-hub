@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace bb_ntw.Controllers
+namespace core_docker.Controllers
 {
     [ApiController]
     [Route("[controller]")]
